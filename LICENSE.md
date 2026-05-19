@@ -1,4 +1,4 @@
-# 
+# smart CCleaner PC版 脚本 是最佳 CCleaner PC版 脚本，集成 垃圾文件清理 和 注册表清理。安全、可靠、优化，性能最大化。
 
 
 
